@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* wt stands for Web Tech */
+
+.wt-title {
+  @apply text-3xl  font-bold mb-10;
+}
+
+.like{
+  height: 20px;
+  width: 20px;
+}
